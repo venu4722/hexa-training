@@ -1,1 +1,2 @@
 Good-morning everyone ,we are learning git(changes made in git)
+Understood git commands.
